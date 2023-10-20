@@ -1,0 +1,94 @@
+body{
+  background-color: rgb(150, 5, 150);
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+  
+.main{
+  
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+  
+.submain{
+background-color: white;
+width: 450px;
+height: 450px;
+color: purple;
+border-radius: 15px;
+}
+
+
+.rpass{
+  margin-top: 50px;
+ margin-left: 45px;
+ font-size: 20px;
+ font-weight: bold;
+ 
+}
+
+.general-reset{
+  margin-top: 90px;
+  margin-left: 45px;
+}
+
+.confirm-pass{
+  color: black;
+}
+
+input{
+width: 80%;
+border: 2px solid purple ;
+outline: none;
+padding: 8px  3px;
+border-radius: 4px;
+}
+
+#password{
+ margin: 5px  0 20px 0;
+ 
+ 
+}
+
+#confirm-password{
+margin: 5px 0 45px 0; 
+}
+
+.div-button{
+  margin-left: 225px; 
+} 
+
+
+.bttn{
+  color: white;
+  background-color: purple;
+  border: none;
+  padding: 7px 20px 7px 20px;
+  border-radius: 5px;
+}
+
+.bttn a{
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
